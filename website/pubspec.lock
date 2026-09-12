@@ -93,7 +93,7 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: "90be4c07171ad550fadb4b661f35113416d345f6"
+      resolved-ref: c94a235cb7eba9566c1c8c2cd832b78dc35024f7
       url: "https://github.com/kobaltgit/kobalt_ui.git"
     source: git
     version: "0.1.0"

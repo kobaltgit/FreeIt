@@ -12,7 +12,7 @@ class Footer extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return KobaltFooter(
-      project: KobaltProjectId.custom,
+      project: KobaltProjectId.freeIt,
       customProject: freeItProjectMeta,
       version: 'v1.0.0',
       customLogo: Container(

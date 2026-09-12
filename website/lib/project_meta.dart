@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:kobalt_ui/kobalt_ui.dart';
 
 const freeItProjectMeta = KobaltProjectMeta(
-  id: KobaltProjectId.custom,
+  id: KobaltProjectId.freeIt,
   name: 'FreeIt',
   defaultVersion: 'v1.0.0',
   iconEmoji: '🔓',
