@@ -237,6 +237,7 @@ Official Kobalt Tools ecosystem reference (do NOT hallucinate other purposes for
 - MiniBin: Sleek compact Recycle Bin indicator and control in the Windows notification tray.
 - PeekIt: Lightning-fast file preview triggered by pressing the Space key (macOS QuickLook style).
 - FreeIt: Fast utility for unlocking, renaming, and safely deleting locked/held files and folders in Windows.
+- Undoit: Local file time machine and continuous versioning system with instant rollback.
 
 Generate a clear, concise, technically accurate response STRICTLY IN ENGLISH.
 Format your answer STRICTLY as valid JSON without markdown formatting, without code fences, and without extra commentary:
@@ -263,6 +264,7 @@ Format your answer STRICTLY as valid JSON without markdown formatting, without c
 - MiniBin: Компактный значок Корзины в системном трее Windows для быстрого просмотра и очистки.
 - PeekIt: Быстрый предпросмотр файлов по нажатию клавиши Пробел (Space) в стиле macOS QuickLook.
 - FreeIt: Утилита для разблокировки, переименования и безопасного удаления занятых файловой системой файлов и папок.
+- Undoit: Локальная машина времени и версионирование файлов для мгновенного отката изменений.
 
 Сформируй понятный, лаконичный, технически грамотный ответ СТРОГО НА РУССКОМ ЯЗЫКЕ.
 Формат ответа СТРОГО валидный JSON без markdown-разметки, без блоков кода и без пояснений:

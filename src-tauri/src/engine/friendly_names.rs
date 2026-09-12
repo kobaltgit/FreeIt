@@ -53,6 +53,7 @@ pub fn get_friendly_name(exe_name: &str) -> Option<&'static str> {
         "minibin" => "MiniBin (Компактный значок Корзины в системном трее)",
         "peekit" => "PeekIt (Быстрый предпросмотр файлов по нажатию Space)",
         "freeit" => "FreeIt (Разблокировка, переименование и безопасное удаление занятых файлов)",
+        "undoit" => "Undoit (Локальная машина времени и версионирование файлов)",
 
         // Офис, плееры, мессенджеры
         "excel" => "Microsoft Excel",
