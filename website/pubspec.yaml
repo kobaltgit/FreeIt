@@ -1,0 +1,26 @@
+name: freeit_website
+description: "Официальный сайт FreeIt — Kobalt Tools"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.2
+  kobalt_ui:
+    git:
+      url: https://github.com/kobaltgit/kobalt_ui.git
+      ref: main
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
